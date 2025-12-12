@@ -10,4 +10,4 @@ set(CMAKE_BUILD_TYPE Debug)
 find_package(GTest REQUIRED)
 
 add_executable(test test.cpp)
-target_link_libraries(test PRIVATE GTest::GTest GTest::Main pthread)
+target_link_libraries(test PRIVATE  gtest gtest_main pthread)

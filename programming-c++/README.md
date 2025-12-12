@@ -6,12 +6,14 @@
 
   * [First Steps in C++](first-steps/README.md)
     
+  * [C++ in Embedded Systems](embedded/)
+
+
 * **Object-Oriented Programming**
+
   * [Introduction](oop/introduction/README.md)
 
   * [Classes and Objects](oop/classes)
-
-  * [Copy Constructor](oop/copy-constructor/)
 
   * [Operator Overloading](oop/operator-overloading/)
 
@@ -24,15 +26,29 @@
 
 * **Templates**
 
+
 * **Standard Template Library (STL)**
+  
   * [Strings](stl/string/)
     
   * [Containers](stl/container/) 
  
   * Algorithms
 
+
+* **C++ in Smaller Embedded Systems**
+
+  * [Overview](embedded/README.md)
+
 ## References
 
 * [YouTube: Bjarne Stroustrup: Why I Created C++ ](https://youtu.be/JBjjnqG0BP8?si=ZFvZpu5uKGs23bGe)
 
-*Egon Teiniker, 2020-2025, GPL v3.0*
+* Amar Mahmutbegović. **C++ in Embedded Systems: A practical transition from C to modern C++**. Packt Publishing, 2025
+
+* Josh Lospinoso. **C++ Crash Course: A Fast-Paced Introduction**. No Starch Press, 2019
+
+* Bjarne Stroustrup. **A Tour of C++**. Pearson International, 2022
+
+
+*Egon Teiniker, 2024-2025, GPL v3.0*
